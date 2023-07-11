@@ -1,0 +1,49 @@
+div.main{
+    width: 740px;
+    height: 750px;
+    position:relative;
+}
+
+div.mes{
+    background: #a1e3f7;
+    width: 660px;
+    height: 500px;
+    font-size: 30px;
+    padding:20px;
+}
+
+#name_form{
+    margin-top: 5px;
+    height: 100px;
+    position:absolute;
+}
+
+#mes_form{
+    margin-top: 5px;
+    height: 100px;
+    position:absolute;
+}
+
+input[type=text]{
+    margin-top: 5px;
+    height: 90%;
+    background: #a1e3f7;
+    font-size: 20px;
+    text-align: center;
+}
+
+#name{
+    width: 150px;
+}
+
+#message{
+    width: 400px;
+}
+
+input[type=submit]{
+    height: 90%;
+    background: #a1e3f7;
+    font-size: 20px;
+    width: 120px;
+    text-align: center;
+}
